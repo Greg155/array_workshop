@@ -14,9 +14,7 @@ let secondLittleArray = [4,5,6,7,8];
 console.log("Second little array is : " + secondLittleArray);
 
 let bigArray = [];
-
-for(let i = 0; i<littleArray.length; i++){
+for(let i = 0; i<firstLittleArray.length; i++){
     bigArray[i] = (firstLittleArray[i] + secondLittleArray[i]);
-
 }
 console.log(bigArray);
