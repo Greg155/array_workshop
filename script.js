@@ -8,8 +8,10 @@ let reverseList = listOfNumber.reverse();
 console.log("Array reverse : " + reverseList);
 
 let firstLittleArray = [4,5,6,7,8];
-console.log("First little array is : " + )
+console.log("First little array is : " + firstLittleArray);
+
 let secondLittleArray = [4,5,6,7,8];
+console.log("Second little array is : " + secondLittleArray);
 
 let bigArray = [];
 
